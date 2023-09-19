@@ -1,0 +1,6 @@
+orange-ball
+red-ball
+blue-ball
+green-ball
+yellow-ball
+drop-bin
